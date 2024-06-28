@@ -1,0 +1,27 @@
+Listado de StoreProcedure:
+
+sp_CrearNuevoCliente
+sp_CreaNuevoServicio
+sp_CreaNuevoTicket
+sp_ActualizarFechaCierre
+sp_InsertarRegistro
+sp_ReasignarTicket
+sp_CambiarEstadoTicket
+sp_ModificarTicket
+sp_ModificarCliente
+
+
+fn_VerificarLoginTicket
+fn_CalcularPendienteCliente
+fn_CalcularSlaTicket
+
+
+tr_GenerarNotificacionMail
+
+
+
+Listado de Vistas:
+
+vw_Servicios_Activos_Cliente
+vw_TicketsSLA
+vw_Servicios_Por_Cliente
